@@ -4,7 +4,6 @@
 
 This solo project aims to showcase my work, skills and projects as a software engineering student.
 
-
 ## Sections
 
 - About Me: A section that contains some key information about me
@@ -15,5 +14,6 @@ This solo project aims to showcase my work, skills and projects as a software en
 ## Preview
 
 ![Website Preview](./assets/website_screenshot.png)
+You can acess the website with this url: https://www.heldergomes.xyz
 
 <h2 align="center">Thank you for visiting my portfolio! 🤍</h2>
